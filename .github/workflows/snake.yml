@@ -1,12 +1,11 @@
 name: Generate contribution snake
 
 on:
+  # once a week is plenty; the snake barely changes day to day
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "17 3 * * 1"
+  # run it by hand from the Actions tab
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
@@ -17,14 +16,18 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: Generate snake from contribution graph
+        id: snake
+        continue-on-error: true
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: awais5588
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=%237de3ff&color_dots=%23101530,%231b2a63,%2327449a,%235b8cff,%237de3ff
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push snake to the output branch
+        if: steps.snake.outcome == 'success'
+        continue-on-error: true
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
