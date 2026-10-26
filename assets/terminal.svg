@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="316" viewBox="0 0 1000 316" role="img" aria-label="Terminal animation introducing Muhammad Awais">
+  <defs><linearGradient id="acc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5b8cff"/><stop offset="1" stop-color="#7de3ff"/></linearGradient>
+    <clipPath id="c0"><rect x="40" y="74" width="0" height="32">
+      <animate attributeName="width" values="0;0;256;256;0" keyTimes="0;0.04;0.090;0.95;1" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="r0"><rect x="40" y="100" width="0" height="26">
+      <animate attributeName="width" values="0;0;443;443;0" keyTimes="0;0.100;0.16;0.95;1" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c1"><rect x="40" y="128" width="0" height="32">
+      <animate attributeName="width" values="0;0;337;337;0" keyTimes="0;0.2;0.270;0.95;1" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="r1"><rect x="40" y="154" width="0" height="26">
+      <animate attributeName="width" values="0;0;528;528;0" keyTimes="0;0.280;0.36;0.95;1" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c2"><rect x="40" y="182" width="0" height="32">
+      <animate attributeName="width" values="0;0;302;302;0" keyTimes="0;0.4;0.480;0.95;1" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="r2"><rect x="40" y="208" width="0" height="26">
+      <animate attributeName="width" values="0;0;613;613;0" keyTimes="0;0.490;0.58;0.95;1" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c3"><rect x="40" y="236" width="0" height="32">
+      <animate attributeName="width" values="0;0;256;256;0" keyTimes="0;0.62;0.690;0.95;1" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="r3"><rect x="40" y="262" width="0" height="26">
+      <animate attributeName="width" values="0;0;571;571;0" keyTimes="0;0.700;0.78;0.95;1" dur="14s" repeatCount="indefinite"/></rect></clipPath></defs>
+
+  <rect x="0.5" y="0.5" width="999" height="315" rx="16" fill="#090c1c" stroke="url(#acc)" stroke-opacity="0.55"/>
+  <path d="M1 16a15 15 0 0 1 15-15H984a15 15 0 0 1 15 15V44H1Z" fill="#0d1226"/>
+  <circle cx="26" cy="22" r="6" fill="#ff5f57"/><circle cx="48" cy="22" r="6" fill="#febc2e"/><circle cx="70" cy="22" r="6" fill="#28c840"/>
+  <text x="500.0" y="27" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#8c95b8">awais@web3 — zsh</text>
+  
+    <text x="40" y="96" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="19" clip-path="url(#c0)"><tspan fill="#3ddc97">awais@web3</tspan><tspan fill="#8c95b8">:</tspan><tspan fill="#7de3ff">~</tspan><tspan fill="#8c95b8">$ </tspan><tspan fill="#e9edff">whoami</tspan></text>
+    <text x="40" y="121" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="17" fill="#5b8cff" clip-path="url(#r0)">muhammad_awais  //  full stack engineer</text>
+    <text x="40" y="150" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="19" clip-path="url(#c1)"><tspan fill="#3ddc97">awais@web3</tspan><tspan fill="#8c95b8">:</tspan><tspan fill="#7de3ff">~</tspan><tspan fill="#8c95b8">$ </tspan><tspan fill="#e9edff">cat stack.txt</tspan></text>
+    <text x="40" y="175" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="17" fill="#5b8cff" clip-path="url(#r1)">react · next.js · node · mongodb · solana · evm</text>
+    <text x="40" y="204" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="19" clip-path="url(#c2)"><tspan fill="#3ddc97">awais@web3</tspan><tspan fill="#8c95b8">:</tspan><tspan fill="#7de3ff">~</tspan><tspan fill="#8c95b8">$ </tspan><tspan fill="#e9edff">ls ./focus</tspan></text>
+    <text x="40" y="229" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="17" fill="#5b8cff" clip-path="url(#r2)">interfaces/  servers/  wallets/  contract-integrations/</text>
+    <text x="40" y="258" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="19" clip-path="url(#c3)"><tspan fill="#3ddc97">awais@web3</tspan><tspan fill="#8c95b8">:</tspan><tspan fill="#7de3ff">~</tspan><tspan fill="#8c95b8">$ </tspan><tspan fill="#e9edff">status</tspan></text>
+    <text x="40" y="283" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="17" fill="#5b8cff" clip-path="url(#r3)">open to remote roles ✔   building Aegis on the side</text>
+  <rect x="40" y="294" width="11" height="20" fill="#7de3ff"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>

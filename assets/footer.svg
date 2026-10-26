@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Quiet interfaces, careful systems.">
+  <defs><linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5b8cff"/><stop offset="1" stop-color="#7de3ff"/></linearGradient></defs>
+  <rect width="1200" height="150" rx="20" fill="#04050b"/>
+
+  <path fill="url(#acc)" fill-opacity="0.14"><animate attributeName="d" dur="9s" repeatCount="indefinite" values="
+    M0 80 C 200 40, 400 120, 600 80 S 1000 40, 1200 80 V150 H0 Z;
+    M0 80 C 200 120, 400 40, 600 80 S 1000 120, 1200 80 V150 H0 Z;
+    M0 80 C 200 40, 400 120, 600 80 S 1000 40, 1200 80 V150 H0 Z"/></path>
+  <path fill="url(#acc)" fill-opacity="0.28"><animate attributeName="d" dur="7s" repeatCount="indefinite" values="
+    M0 105 C 250 70, 450 140, 700 105 S 1050 70, 1200 105 V150 H0 Z;
+    M0 105 C 250 140, 450 70, 700 105 S 1050 140, 1200 105 V150 H0 Z;
+    M0 105 C 250 70, 450 140, 700 105 S 1050 70, 1200 105 V150 H0 Z"/></path>
+  <text x="600" y="58" text-anchor="middle" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" fill="#e9edff" letter-spacing="-0.4">Quiet interfaces, careful systems.</text>
+  <text x="600" y="84" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="12" letter-spacing="2" fill="#8c95b8">© 2026 MUHAMMAD AWAIS</text>
+</svg>
