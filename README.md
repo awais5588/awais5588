@@ -15,13 +15,13 @@
 
 <br/><br/>
 
-<img src="./assets/metrics.svg" alt="3.5+ years, 4 product teams, 9 projects, 3 chains" width="100%"/>
+<img src="./assets/metrics.svg" alt="3+ years, 3 product teams, 9 projects, 3 chains" width="100%"/>
 
 </div>
 
 <br/>
 
-<img src="./assets/about.svg" alt="About: I'm a full stack engineer with three and a half years across the whole stack — interface, API and database — mostly in Web3, where clear states, honest errors and backends that don't guess matter. Based in Pakistan, working remotely. Building Aegis, a platform for governing AI agents. Open to remote roles and Web3 builds." width="100%"/>
+<img src="./assets/about.svg" alt="About: I'm a full stack engineer with three-plus years across the whole stack — interface, API and database — mostly in Web3, where clear states, honest errors and backends that don't guess matter. Based in Pakistan, working remotely. Building Aegis, a platform for governing AI agents. Open to remote roles and Web3 builds." width="100%"/>
 
 <br/>
 
@@ -29,14 +29,14 @@
 
 <div align="center">
 
-<a href="https://zer0browser.org/"><img src="./assets/project-01.svg" alt="ZERO Browser" width="49%"/></a>
-<a href="https://legacy.titanstoken.io/"><img src="./assets/project-02.svg" alt="Titan Legacy" width="49%"/></a>
-<a href="https://zovereign.org/"><img src="./assets/project-03.svg" alt="Zovereign" width="49%"/></a>
-<a href="https://pro.biokript.com/"><img src="./assets/project-04.svg" alt="Biokript Pro" width="49%"/></a>
+<a href="https://pro.biokript.com/"><img src="./assets/project-01.svg" alt="Biokript Pro" width="49%"/></a>
+<a href="https://zer0browser.org/"><img src="./assets/project-02.svg" alt="ZERO Browser" width="49%"/></a>
+<a href="https://legacy.titanstoken.io/"><img src="./assets/project-03.svg" alt="Titan Legacy" width="49%"/></a>
+<a href="https://app.gradient.trade/"><img src="./assets/project-04.svg" alt="Gradient" width="49%"/></a>
 <a href="https://www.store.bugatticollectionsnft.com/"><img src="./assets/project-05.svg" alt="Bugatti Collections NFT Store" width="49%"/></a>
-<a href="https://utilitybridge.co.uk/"><img src="./assets/project-06.svg" alt="Utility Bridge" width="49%"/></a>
-<a href="https://nextwavecomm.com/"><img src="./assets/project-07.svg" alt="Nextwave Communications" width="49%"/></a>
-<a href="https://app.gradient.trade/"><img src="./assets/project-08.svg" alt="Gradient" width="49%"/></a>
+<a href="https://zovereign.org/"><img src="./assets/project-06.svg" alt="Zovereign" width="49%"/></a>
+<a href="https://utilitybridge.co.uk/"><img src="./assets/project-07.svg" alt="Utility Bridge" width="49%"/></a>
+<a href="https://nextwavecomm.com/"><img src="./assets/project-08.svg" alt="Nextwave Communications" width="49%"/></a>
 <img src="./assets/project-09.svg" alt="Aegis — personal project" width="49%"/>
 
 <sub>Professional projects were built within teams. Full case studies live on my <a href="https://itx-awais-dev.vercel.app/">portfolio</a>.</sub>
@@ -47,7 +47,7 @@
 
 <img src="./assets/section-experience.svg" alt="02 — Experience" width="100%"/>
 
-<img src="./assets/experience.svg" alt="Experience: Biokript (2 years, current), BlocTech Solutions (1 year 3 months), Encodix (5 months), Gamica Cloud (3 months)" width="100%"/>
+<img src="./assets/experience.svg" alt="Experience: Biokript (Mar 2024 to present), BlocTech Solutions (Mar 2023 to Mar 2024), Encodix (Aug 2022 to Dec 2022)" width="100%"/>
 
 <br/>
 

@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="384" viewBox="0 0 1200 384" role="img" aria-label="Experience: Biokript, BlocTech Solutions, Encodix, Gamica Cloud">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Experience: Biokript (Mar 2024 to present), BlocTech Solutions (Mar 2023 to Mar 2024), Encodix (Aug 2022 to Dec 2022)">
   <defs><linearGradient id="acc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5b8cff"/><stop offset="1" stop-color="#7de3ff"/></linearGradient></defs>
-  <rect width="1200" height="384" rx="20" fill="#04050b"/>
-<line x1="44" y1="40" x2="44" y2="340" stroke="#1a2142" stroke-width="2"/>
-<line x1="44" y1="40" x2="44" y2="340" stroke="url(#acc)" stroke-width="2" stroke-dasharray="60 384"><animate attributeName="stroke-dashoffset" values="60;-384" dur="5s" repeatCount="indefinite"/></line>
+  <rect width="1200" height="300" rx="20" fill="#04050b"/>
+<line x1="44" y1="40" x2="44" y2="256" stroke="#1a2142" stroke-width="2"/>
+<line x1="44" y1="40" x2="44" y2="256" stroke="url(#acc)" stroke-width="2" stroke-dasharray="60 300"><animate attributeName="stroke-dashoffset" values="60;-300" dur="5s" repeatCount="indefinite"/></line>
 
   <g>
     <circle cx="44" cy="56" r="9" fill="#04050b" stroke="url(#acc)" stroke-width="2"/>
@@ -14,7 +14,7 @@
     <rect x="700" y="72" width="280" height="8" rx="4" fill="url(#acc)">
       <animate attributeName="width" values="0;280;280;0" keyTimes="0;.18;.9;1" dur="10s" begin="0.0s" repeatCount="indefinite"/>
     </rect>
-    <text x="1008" y="81" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#e9edff">2 years</text>
+    <text x="1008" y="81" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#e9edff">Mar 2024 – Present</text>
     <rect x="1008" y="90" width="62" height="20" rx="10" fill="#0d1226" stroke="#3ddc97" stroke-opacity="0.6"/><text x="1039" y="104" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="10.5" letter-spacing="1.5" fill="#3ddc97">NOW</text>
   </g>
   <g>
@@ -22,12 +22,12 @@
     <circle cx="44" cy="138" r="4" fill="#5b8cff"></circle>
     <text x="80" y="140" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" letter-spacing="2" fill="#5b8cff">02 · FAISALABAD</text>
     <text x="80" y="170" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="25" font-weight="800" fill="#e9edff" letter-spacing="-0.5">BlocTech Solutions</text>
-    <text x="80" y="192" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#8c95b8">Junior Software Engineer / MERN Stack &amp; Web3 Developer</text>
+    <text x="80" y="192" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#8c95b8">Junior Software Engineer</text>
     <rect x="700" y="154" width="280" height="8" rx="4" fill="#0d1226" stroke="#1a2142"/>
-    <rect x="700" y="154" width="175" height="8" rx="4" fill="url(#acc)">
-      <animate attributeName="width" values="0;175;175;0" keyTimes="0;.18;.9;1" dur="10s" begin="0.35s" repeatCount="indefinite"/>
+    <rect x="700" y="154" width="108" height="8" rx="4" fill="url(#acc)">
+      <animate attributeName="width" values="0;108;108;0" keyTimes="0;.18;.9;1" dur="10s" begin="0.35s" repeatCount="indefinite"/>
     </rect>
-    <text x="1008" y="163" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#e9edff">1 year 3 months</text>
+    <text x="1008" y="163" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#e9edff">Mar 2023 – Mar 2024</text>
     
   </g>
   <g>
@@ -37,23 +37,10 @@
     <text x="80" y="252" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="25" font-weight="800" fill="#e9edff" letter-spacing="-0.5">Encodix</text>
     <text x="80" y="274" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#8c95b8">MERN Stack Developer</text>
     <rect x="700" y="236" width="280" height="8" rx="4" fill="#0d1226" stroke="#1a2142"/>
-    <rect x="700" y="236" width="58" height="8" rx="4" fill="url(#acc)">
-      <animate attributeName="width" values="0;58;58;0" keyTimes="0;.18;.9;1" dur="10s" begin="0.7s" repeatCount="indefinite"/>
+    <rect x="700" y="236" width="45" height="8" rx="4" fill="url(#acc)">
+      <animate attributeName="width" values="0;45;45;0" keyTimes="0;.18;.9;1" dur="10s" begin="0.7s" repeatCount="indefinite"/>
     </rect>
-    <text x="1008" y="245" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#e9edff">5 months</text>
-    
-  </g>
-  <g>
-    <circle cx="44" cy="302" r="9" fill="#04050b" stroke="url(#acc)" stroke-width="2"/>
-    <circle cx="44" cy="302" r="4" fill="#5b8cff"></circle>
-    <text x="80" y="304" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" letter-spacing="2" fill="#5b8cff">04 · FAISALABAD</text>
-    <text x="80" y="334" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="25" font-weight="800" fill="#e9edff" letter-spacing="-0.5">Gamica Cloud</text>
-    <text x="80" y="356" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#8c95b8">MERN Stack Developer</text>
-    <rect x="700" y="318" width="280" height="8" rx="4" fill="#0d1226" stroke="#1a2142"/>
-    <rect x="700" y="318" width="35" height="8" rx="4" fill="url(#acc)">
-      <animate attributeName="width" values="0;35;35;0" keyTimes="0;.18;.9;1" dur="10s" begin="1.0499999999999998s" repeatCount="indefinite"/>
-    </rect>
-    <text x="1008" y="327" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#e9edff">3 months</text>
+    <text x="1008" y="245" font-family="'JetBrains Mono','SF Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#e9edff">Aug 2022 – Dec 2022</text>
     
   </g>
 </svg>
