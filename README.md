@@ -47,7 +47,7 @@
 
 <img src="./assets/section-experience.svg" alt="02 — Experience" width="100%"/>
 
-<img src="./assets/experience.svg" alt="Experience: Biokript (Mar 2024 to present), BlocTech Solutions (Mar 2023 to Mar 2024), Encodix (Aug 2022 to Dec 2022)" width="100%"/>
+<img src="./assets/experience.svg" alt="Experience: Biokript (Mar 2024 to present), BlocTech Solutions (Jan 2023 to Mar 2024), Encodix (Aug 2022 to Dec 2022)" width="100%"/>
 
 <br/>
 
