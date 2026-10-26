@@ -70,8 +70,10 @@
 
 <br/>
 
-<img height="175" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=awais5588&show_icons=true&hide_border=false&border_color=1a2142&bg_color=090c1c&title_color=5b8cff&text_color=e9edff&icon_color=7de3ff&border_radius=18"/>
-<img height="175" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awais5588&layout=compact&hide_border=false&border_color=1a2142&bg_color=090c1c&title_color=5b8cff&text_color=e9edff&border_radius=18"/>
+<img align="top" width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=awais5588&show_icons=true&hide_border=false&border_color=1a2142&bg_color=090c1c&title_color=5b8cff&text_color=e9edff&icon_color=7de3ff&border_radius=18&card_width=495"/>
+<img align="top" width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awais5588&layout=compact&hide_border=false&border_color=1a2142&bg_color=090c1c&title_color=5b8cff&text_color=e9edff&border_radius=18&card_width=495"/>
+
+<br/>
 
 <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=awais5588&background=090C1C&border=1A2142&stroke=1A2142&ring=5B8CFF&fire=7DE3FF&currStreakNum=E9EDFF&currStreakLabel=5B8CFF&sideNums=E9EDFF&sideLabels=8C95B8&dates=8C95B8&border_radius=18" width="100%"/>
 
